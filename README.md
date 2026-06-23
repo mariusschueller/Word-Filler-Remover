@@ -1,4 +1,8 @@
-# CrisperWhisper
+# Word Filler Remover
+Removes filler words from mp4 files. After crisper whisper set up, run filler_remover.py.
+
+
+# From CrisperWhisper
 
 **CrisperWhisper** is an advanced variant of OpenAI's Whisper, designed for fast, precise, and verbatim speech recognition with accurate (**crisp**) word-level timestamps. Unlike the original Whisper, which tends to omit disfluencies and follows more of a intended transcription style, CrisperWhisper aims to transcribe every spoken word exactly as it is, including fillers, pauses, stutters and false starts.
 
